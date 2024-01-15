@@ -1,0 +1,12 @@
+title: Home
+description: Hi! Fancy seeing you here :o
+remote-theme: b2a3e8/jekyll-theme-console
+
+header_pages:
+  - README.md
+  - about.md
+
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
+footer: 'follow me on <a href="https://twitter.com/TheTombuster">X</a>, <a href="https://www.instagram.com/the_tombuster/">Instagram<\a> and <a href="https://www.youtube.com/channel/UCkVoYDqsETeRi4-klDgV6aQ">Youtube channel<\a> where I upload whetever aligns with my interests!'
