@@ -1,5 +1,5 @@
 title: Tom's personal page
-description: Hi! Fancy seeing you here :o
+description: hi! Fancy seeing you here :o
 url: "https://tombuster.github.io/"
 
 header_pages:
@@ -9,7 +9,7 @@ header_pages:
 
 listen_for_clients_preferred_style: true # false (default) or true
 
-footer: 'follow me on <a href="https://twitter.com/TheTombuster">X</a>, <a href="https://www.instagram.com/the_tombuster/">Instagram</a> and on my <a href="https://www.youtube.com/channel/UCkVoYDqsETeRi4-klDgV6aQ">Youtube channel</a> where I upload whetever aligns with my interests!'
+footer: 'follow me on <a href="https://twitter.com/TheTombuster">X</a>, <a href="https://www.instagram.com/the_tombuster/">Instagram</a> and on my <a href="https://www.youtube.com/channel/UCkVoYDqsETeRi4-klDgV6aQ">Youtube channel</a> where I upload whatever scratches my current interest itch!'
 
 # Build settings
 markdown: kramdown
