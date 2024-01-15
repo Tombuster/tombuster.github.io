@@ -5,5 +5,4 @@ permalink: /gallery/
 ---
 
 # My 1990 VW Golf Mk2:
-
-<img src="/assets/img/mk2.JPG" width=400>
+<img src="/assets/img/mk2.JPG" width=400 style="margin:50px 0px">
