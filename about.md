@@ -14,6 +14,7 @@ I've got many interests, and the list is always growing! There are a couple stap
 - 3D art and rendering - I've been using blender for a couple of years now, and learned everything on the Internet for free!
 - Film photography - My main camera is a Canon AE-1 with a 50mm lens (idk much abut lenses yet, but it takes really nice pictures :D). The AE-1 is my most often used camera - it's really light when compared to my older soviet models. If you'd like to check more photos out, head over to [/gallery](/gallery.md)!
 - Tinkering with and driving my 1990 VW golf mk2 - It's a car you need to know how to drive, or how to put back together - or probably both. Here it is in its full rust bucket glory:
+
   <img src="/assets/img/mk2.JPG" width=400>
 - Cooking all kinds of stuff, I particularly enjoy Japanese cuisine. I've also completed a bartending course and like to experiment with cocktails that compliment my dishes.
 - Cyberpunk literature - I've become a big fan of [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)'s works - definitely check them out if contemplating the sense of self is your vibe! I can't recommend the sprawl trilogy enough, it's fascinating how well it aged, and how much of whaty would have been pretty fictional back then became so real in current times! (Be careful of spoilers, though - if you're not sure you understand what's going on, don't go searching around instantly - read that part through to the end and then look for explanations - you really don't want to get the story spoiled!)
