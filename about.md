@@ -12,10 +12,11 @@ I'm Tom, nice to meet you!
 I've got many interests, and the list is always growing! There are a couple staples, though. I've complied them into a list for your convenience!
 
 - 3D art and rendering - I've been using blender for a couple of years now, and learned everything on the Internet for free!
-- Film photography - My main camera is a Canon AE-1 with a 50mm lens (idk much abut lenses yet, but it takes really nice pictures :D). The AE-1 is my most often used camera - it's really light when compared to my older soviet models.
+- Film photography - My main camera is a Canon AE-1 with a 50mm lens (idk much abut lenses yet, but it takes really nice pictures :D). The AE-1 is my most often used camera - it's really light when compared to my older soviet models. If you'd like to check more photos out, head over to [/gallery](/gallery.md)!
 - Tinkering with and driving my 1990 VW golf mk2 - It's a car you need to know how to drive, or how to put back together - usually both. Here it is in its full rust bucket glory: ![mk2](/_pictures/mk2.JPG)
 - Cooking all kinds of stuff, I particularly enjoy Japanese dishes
 - Cyberpunk literature - I've become a big fan of [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)'s sprawl trilogy - definitely check it out if that's your vibe! (Be careful of spoilers, though!)
+- The Blade Runner movies - I'd classify them as cyberpunk. If you'd like to watch 2049 without prior knowledge of Scott's Blade Runner, I'd recommend catching up on it - otherwise the sequel doesn't hit as hard, and man do you ever want it to hit as hard as it can!
 - Music - I listen to a bunch of genres, usually depending on very specific *vibes*... here are some of my favourite songs and when I discovered them:
   - [Feeling It](https://open.spotify.com/track/3h45GAnateHR2KnCiZYOQA?si=e578e3954e6a4c76) by [Maximum Love](https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ?si=YPLFchnQRQmi5jFlXLZjKQ), circa Nov 2023. All the music these guys put out is amazing, please go and have a listen when you find a bit of time to explore new music!
   - [Your Love (Déjà Vu)](https://open.spotify.com/track/5DYD4zlGiFlkpLaf2Bk8Vl?si=0e8413d244be495b) and [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f?si=7db8c3287cdf46b0) by [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq?si=xXa2YV3SRV25N-Sb_WYupg), circa Oct 2020 - I even got the cassette back then! (I was wholly unaware of Heat Waves' explosion on tiktok until my brother asked I put a different tape in! I avoid that platform like the plague, hence the song still remains one of my all-time favourites!)
@@ -37,12 +38,10 @@ I've got many interests, and the list is always growing! There are a couple stap
   - Japanese (Studying since Nov 15 2021, a bit above N5 atm.)
   - Russian (Studied for 6 years, didn't enjoy it much but it was in the curriculum. As of writing this, it is being forgotten.)
 - Virtual Reality - It's quite the magical experience for first-timers! I don't have much space and my computer can't really handle it anymore, but that's going to change soon!
+- Fashion - I've been trying to be a bit more conscious of what I wear and I can't say I don't enjoy it (neither can I say that I'm any good at it yet :p).
 - People - I love having my friends over at my place. I get to cook for people I care about and really there's not much better than that out there!
 
 ## Things I'm not too fond of:
 - Big parties, lots of strangers and not many friends - I'm way too awkward in those kinds of situations, or rather I feel hemmed in and uncomfortable to the point of not being able to enjoy such a party.
 - Inability to cut straight to the point - especially when it comes to dating. I'd much rather people had the courage to say 'no' to my face - if not I tend to overthink and fall into a destructive spiral that rips the already existing relationship apart and makes me think I'm doing things wrong. I know that it can be difficult to 'just say things outright', but I try to make it as easy as possible for the other person. 
 - Non-constructive unprompted criticism - especially if it's really petty, completely pointless, or just unrelated to me whatsoever. Getting ripped into in this way is one of tne worst feelings in my feelings ranking list.
-
-# Here's a bunch of my photos:
-###### photos to be added when I'm done editing them :p
