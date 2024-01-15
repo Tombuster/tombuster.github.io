@@ -3,7 +3,7 @@ description: Hi! Fancy seeing you here :o
 url: "https://tombuster.github.io/"
 
 header_pages:
-  - README.md
+  - index.md
   - about.md
 
 listen_for_clients_preferred_style: true # false (default) or true
