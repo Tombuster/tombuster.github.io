@@ -8,7 +8,7 @@ header_pages:
 
 listen_for_clients_preferred_style: true # false (default) or true
 
-footer: 'follow me on <a href="https://twitter.com/TheTombuster">X</a>, <a href="https://www.instagram.com/the_tombuster/">Instagram</a> and <a href="https://www.youtube.com/channel/UCkVoYDqsETeRi4-klDgV6aQ">Youtube channel</a> where I upload whetever aligns with my interests!'
+footer: 'follow me on <a href="https://twitter.com/TheTombuster">X</a>, <a href="https://www.instagram.com/the_tombuster/">Instagram</a> and on my <a href="https://www.youtube.com/channel/UCkVoYDqsETeRi4-klDgV6aQ">Youtube channel</a> where I upload whetever aligns with my interests!'
 
 # Build settings
 markdown: kramdown
