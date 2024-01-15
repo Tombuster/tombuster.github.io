@@ -4,4 +4,5 @@ title: /gallery
 permalink: /gallery/
 ---
 
-# Lorem Ipsum *insert gallery here*
+# My 1990 VW Golf Mk2:
+![mk2](/assets/img/mk2.JPG)
