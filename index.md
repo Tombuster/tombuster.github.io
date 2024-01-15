@@ -4,11 +4,10 @@ layout: home
 permalink: /
 ---
 
-# Other Demo Pages
+# Hi!
 
-[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
-[Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
+Welcome to my page, I didn't expect you to stop by at this time, so I didn't cook anything...
+Let me know when you plan to come over beforehand next time!
 
-# Welcome
-
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+aaaaaanyways...
+Here's what I've been up to lately:
